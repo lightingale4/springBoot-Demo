@@ -25,7 +25,7 @@ public class UserProxy {
      * 相同切入点抽取,表示对目标执行方法进行执行
      */
     @Pointcut(value = "execution(* org.dingli.aopAnno.User.add(..))")
-    public void ponintDemo() {
+    public void pointDemo() {
 
     }
 
@@ -35,37 +35,37 @@ public class UserProxy {
      *
      * @Before 注解
      */
-    @Before(value = "ponintDemo()")
+    @Before(value = "pointDemo()")
     public void before() {
         System.out.println("user的before前置通知");
     }
 
-//    @After(value = "ponintDemo()")
-//    public void after() {
-//        System.out.println("after后置通知");
-//    }
-//
-//    /**
-//     * 表示方法返回之前执行
-//     */
-//    @AfterReturning(value = "ponintDemo()")
-//    public void afterReturning() {
-//        System.out.println("afterReturning最终通知");
-//    }
-//
-//    @AfterThrowing(value = "ponintDemo()")
-//    public void afterThrowing() {
-//        System.out.println("afterThrowing异常通知");
-//    }
-//
-//    /**
-//     * 环绕通知，对目标方法执行前后都做增强
-//     */
-//    @Around(value = "ponintDemo()")
-//    public void around(ProceedingJoinPoint proceedingJoinPoint) throws Throwable {
-//        System.out.println("around环绕之前通知");
-//        //表示需要执行的方法
-//        proceedingJoinPoint.proceed();
-//        System.out.println("around环绕之后通知");
-//    }
+    @After(value = "pointDemo()")
+    public void after() {
+        System.out.println("after后置通知");
+    }
+
+    /**
+     * 表示方法返回之前执行
+     */
+    @AfterReturning(value = "pointDemo()")
+    public void afterReturning() {
+        System.out.println("afterReturning最终通知");
+    }
+
+    @AfterThrowing(value = "pointDemo()")
+    public void afterThrowing() {
+        System.out.println("afterThrowing异常通知");
+    }
+
+    /**
+     * 环绕通知，对目标方法执行前后都做增强
+     */
+    @Around(value = "pointDemo()")
+    public void around(ProceedingJoinPoint proceedingJoinPoint) throws Throwable {
+        System.out.println("around环绕之前通知");
+        //表示需要执行的方法
+        proceedingJoinPoint.proceed();
+        System.out.println("around环绕之后通知");
+    }
 }
