@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="082eb4b2-3654-470c-8cd1-5cb43350101c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\learnSpringRepo" />
+        <option name="mavenHome" value="D:/dev/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\dev\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29Xj072mg0SmzRtb2l62enKGCEf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/dingli/common" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learngit\springBoot-demo\src\main\java\org\dingli\common" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="springBoot-demo" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="JUnit.TestAop.test">
+    <configuration name="TestAop.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springBoot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dingli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.dingli" />
+      <option name="MAIN_CLASS_NAME" value="org.dingli.TestAop" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springBoot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dingli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dingli.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestAop.test" />
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="082eb4b2-3654-470c-8cd1-5cb43350101c" name="Default Changelist" comment="" />
+      <created>1653266097280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653266097280</updated>
+      <workItem from="1653266098949" duration="14316000" />
+      <workItem from="1653359636482" duration="2565000" />
+      <workItem from="1653524122933" duration="9229000" />
+      <workItem from="1654671994246" duration="13864000" />
+      <workItem from="1655781482876" duration="7854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1653629123022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1653629123022" />
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1653266748034">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1653266748034" />
+    <state x="396" y="42" key="#xdebugger.evaluate" timestamp="1655799485596">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="42" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1655799485596" />
+    <state width="648" height="466" key="DebuggerActiveHint" timestamp="1653629621523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="648" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1653629621523" />
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1655875428192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1655875428192" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1655875428192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1655875428192" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1655875428192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1655875428192" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1655875428192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1655875428192" />
+    <state width="1237" height="225" key="GridCell.Tab.1.bottom" timestamp="1655801608524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1655801608524" />
+    <state width="1237" height="225" key="GridCell.Tab.1.center" timestamp="1655801608524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1655801608524" />
+    <state width="1237" height="225" key="GridCell.Tab.1.left" timestamp="1655801608524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1655801608524" />
+    <state width="1237" height="225" key="GridCell.Tab.1.right" timestamp="1655801608524">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1655801608524" />
+    <state width="1237" height="225" key="GridCell.Tab.2.bottom" timestamp="1655100043625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1655100043625" />
+    <state width="1237" height="225" key="GridCell.Tab.2.center" timestamp="1655100043625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1655100043625" />
+    <state width="1237" height="225" key="GridCell.Tab.2.left" timestamp="1655100043625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1655100043625" />
+    <state width="1237" height="225" key="GridCell.Tab.2.right" timestamp="1655100043625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1655100043625" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1653266652666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1653266652666" />
+    <state x="362" y="82" width="576" height="524" key="StructurePopup" timestamp="1654674391056">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="576" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1654674391056" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1653273807271">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1653273807271" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1655799484335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1655799484335" />
+    <state x="189" y="73" width="903" height="607" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1653630126853">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="189" y="73" width="903" height="607" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1653630126853" />
+    <state x="371" y="92" key="extract.method.dialog" timestamp="1653268844664">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="92" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1653268844664" />
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup" timestamp="1653273809722">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup/0.0.1280.680@0.0.1280.680" timestamp="1653273809722" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1654741132629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1654741132629" />
+  </component>
+</project>
