@@ -12,7 +12,7 @@ public class TestAop {
     @Test
     public void test() {
         AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(ProxyConfig.class);
-        User user = applicationContext.getBean("user", User.class);
+        User user = applicationContext.getBean(User.class);
         user.add();
     }
 }
