@@ -14,7 +14,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @EnableAspectJAutoProxy
 public class ProxyConfig {
 
-    @Bean({"user"})
+    @Bean
     public User getUser() {
         return new User();
     }

@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
  *
  * @author Administrator
  */
-@Component("user")
+@Component
 public class User {
 
     public void add() {
