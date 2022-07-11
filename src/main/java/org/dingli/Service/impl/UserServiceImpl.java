@@ -45,9 +45,6 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public String getName(String id) {
-        if (Long.valueOf(id).equals(1L)) {
-            return userEntity.getName();
-        }
-        return errorMessage;
+        return "名字为:"+id;
     }
 }

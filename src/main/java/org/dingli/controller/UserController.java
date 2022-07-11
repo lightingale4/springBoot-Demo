@@ -1,6 +1,7 @@
 package org.dingli.controller;
 
 import org.dingli.Service.UserService;
+import org.dingli.common.CommonResult;
 import org.dingli.dto.UserDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -27,7 +28,7 @@ public class UserController {
     }
 
     @GetMapping("/getName/{id}")
-    public String getName(@PathVariable("id") String id) {
-        return userService.getName(id);
+    public CommonResult<Object> getName(@PathVariable("id") String id) {
+        return CommonResult.success(userService.getName(id));
     }
 }
