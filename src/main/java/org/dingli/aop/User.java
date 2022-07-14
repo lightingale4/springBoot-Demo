@@ -1,4 +1,4 @@
-package org.dingli.aopAnno;
+package org.dingli.aop;
 
 
 import org.springframework.stereotype.Component;

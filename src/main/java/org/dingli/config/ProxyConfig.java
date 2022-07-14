@@ -1,8 +1,8 @@
 package org.dingli.config;
 
-import org.dingli.aopAnno.PersonProxy;
-import org.dingli.aopAnno.User;
-import org.dingli.aopAnno.UserProxy;
+import org.dingli.aop.PersonProxy;
+import org.dingli.aop.User;
+import org.dingli.aop.UserProxy;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
@@ -11,7 +11,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
  * @author ding.li
  */
 @Configuration
-@EnableAspectJAutoProxy
+
 public class ProxyConfig {
 
     @Bean

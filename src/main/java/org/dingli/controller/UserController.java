@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
+import java.util.Locale;
 
 /**
  * @author Administrator
@@ -29,6 +30,10 @@ public class UserController {
 
     @GetMapping("/getName/{id}")
     public CommonResult<Object> getName(@PathVariable("id") String id) {
+//        String key = null;
+//        System.out.println(key.toLowerCase(Locale.ROOT));
+        int i = 1/0;
+        System.out.println(i);
         return CommonResult.success(userService.getName(id));
     }
 }

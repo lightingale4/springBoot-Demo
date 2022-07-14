@@ -1,6 +1,6 @@
 package org.dingli;
 
-import org.dingli.aopAnno.User;
+import org.dingli.aop.User;
 import org.dingli.config.ProxyConfig;
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;

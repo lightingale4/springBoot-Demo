@@ -1,4 +1,4 @@
-package org.dingli.aopAnno;
+package org.dingli.aop;
 
 
 import org.aspectj.lang.annotation.Aspect;
@@ -21,7 +21,7 @@ public class PersonProxy {
      *
      * @Before 注解
      */
-    @Before(value = "execution(* org.dingli.aopAnno.User.add(..))")
+    @Before(value = "execution(* org.dingli.aop.User.add(..))")
     public void before() {
         System.out.println("Person的before前置通知");
     }

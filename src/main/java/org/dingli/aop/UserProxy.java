@@ -1,4 +1,4 @@
-package org.dingli.aopAnno;
+package org.dingli.aop;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.After;
@@ -24,7 +24,7 @@ public class UserProxy {
     /**
      * 相同切入点抽取,表示对目标执行方法进行执行
      */
-    @Pointcut(value = "execution(* org.dingli.aopAnno.User.add(..))")
+    @Pointcut(value = "execution(* org.dingli.aop.User.add(..))")
     public void pointDemo() {
 
     }
