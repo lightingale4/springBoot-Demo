@@ -4,6 +4,7 @@ import java.io.*;
 
 /**
  * 文件读取工具类
+ * @author Administrator
  */
 public class FileUtil {
 
