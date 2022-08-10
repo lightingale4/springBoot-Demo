@@ -1,6 +1,6 @@
 package org.dingli.controller;
 
-import org.dingli.Service.UserService;
+import org.dingli.service.UserService;
 import org.dingli.common.CommonResult;
 import org.dingli.dto.UserDto;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
-import java.util.Locale;
 
 /**
  * @author Administrator

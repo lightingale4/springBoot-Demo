@@ -18,7 +18,7 @@ import org.springframework.stereotype.Component;
  */
 @Component
 @Aspect
-@Order(3)
+@Order(1)
 public class UserProxy {
 
     /**
@@ -37,12 +37,12 @@ public class UserProxy {
      */
     @Before(value = "pointDemo()")
     public void before() {
-        System.out.println("user的before前置通知");
+        System.out.println("user的before前置通知aaa");
     }
 
     @After(value = "pointDemo()")
     public void after() {
-        System.out.println("after后置通知");
+        System.out.println("after后置通知aaaa");
     }
 
     /**

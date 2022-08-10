@@ -1,4 +1,4 @@
-package org.dingli.Service;
+package org.dingli.service;
 
 /**
  * @author Administrator

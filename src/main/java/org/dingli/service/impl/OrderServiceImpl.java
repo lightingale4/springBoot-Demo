@@ -1,6 +1,6 @@
-package org.dingli.Service.impl;
+package org.dingli.service.impl;
 
-import org.dingli.Service.OrderService;
+import org.dingli.service.OrderService;
 import org.dingli.entity.OrderEntity;
 import org.springframework.stereotype.Service;
 

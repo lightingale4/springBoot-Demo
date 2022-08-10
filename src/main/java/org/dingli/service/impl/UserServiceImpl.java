@@ -1,8 +1,8 @@
-package org.dingli.Service.impl;
+package org.dingli.service.impl;
 
 
-import org.dingli.Service.OrderService;
-import org.dingli.Service.UserService;
+import org.dingli.service.OrderService;
+import org.dingli.service.UserService;
 import org.dingli.entity.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
