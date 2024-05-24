@@ -7,16 +7,18 @@ public interface UserService {
 
     /**
      * add users
+     *
      * @param name
      * @param age
      * @param hobbies
      * @return
      */
-    String add(String name,Integer age,String hobbies);
+    String add(String name, Integer age, String hobbies);
 
 
     /**
      * getId
+     *
      * @param id
      * @return
      */
@@ -25,6 +27,7 @@ public interface UserService {
 
     /**
      * 获取
+     *
      * @return
      */
     OrderService getOrderService();

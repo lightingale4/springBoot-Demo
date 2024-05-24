@@ -25,7 +25,7 @@ public class UserServiceImpl implements UserService {
 
     @PostConstruct()
     @Override
-    public OrderService getOrderService(){
+    public OrderService getOrderService() {
         return this.orderService = orderService;
     }
 
@@ -45,6 +45,6 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public String getName(String id) {
-        return "名字为:"+id;
+        return "名字为:" + id;
     }
 }

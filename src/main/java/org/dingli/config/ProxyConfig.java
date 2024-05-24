@@ -11,7 +11,6 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
  * @author ding.li
  */
 @Configuration
-@EnableAspectJAutoProxy
 public class ProxyConfig {
 
     @Bean
